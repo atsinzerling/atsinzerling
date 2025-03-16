@@ -34,3 +34,7 @@
 <a href="https://linkedin.com/in/atsinzerling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atsinzerling" height="30" width="40" /></a>
 <a href="https://discord.gg/680114793591341151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="680114793591341151" height="30" width="40" /></a>
 </p>
+
+<!--
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+-->
